@@ -5,7 +5,11 @@
 .*/__snapshots__/.*
 .*/scripts/download-zdeps/.*
 .*/scripts/release/.*
-
+<PROJECT_ROOT>/run/.*
+<PROJECT_ROOT>/docs/.*
+<PROJECT_ROOT>/zealot/.*
+<PROJECT_ROOT>/.vscode/.*
+ 
 [include]
 
 [libs]
