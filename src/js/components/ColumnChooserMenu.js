@@ -21,7 +21,7 @@ const ControlListItem = styled.li`
   display: flex;
   justify-content: space-between;
   align-items: center;
-  padding: 4px 36px;
+  padding: 4px 12px;
   cursor: default;
 
   p {
@@ -34,7 +34,7 @@ const ColumnListItem = styled.li`
   display: flex;
   justify-content: space-between;
   align-items: center;
-  padding: 4px 36px;
+  padding: 4px 12px;
   cursor: default;
   ${(props) => props.theme.typography.labelNormal}
 `
